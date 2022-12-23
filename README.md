@@ -1,4 +1,4 @@
-# olx-scrap
+# OLX Web Scrapping
 This project is to retrieve data from olx.com api
 
 ## Result
